@@ -1,0 +1,9 @@
+{
+    "name": "CanIPetThatDog",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/RaptureAwaits/lc-pointpet",
+    "description": "Sound mod for hit video game Lethal Company. Plays a certain sound clip when a player points at a dog.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
